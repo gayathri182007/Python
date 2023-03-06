@@ -1,7 +1,7 @@
 import json
 
 
-import json
+
 
 def readJsonFile(fileName):
     data = ""
